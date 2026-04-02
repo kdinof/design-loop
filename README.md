@@ -67,7 +67,7 @@ The following skills must be available in your Claude Code environment:
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/gaynutdinov-k/design-loop.git
+   git clone https://github.com/kdinof/design-loop.git
    ```
 
 2. Copy the skill to your project or global Claude Code skills directory:
